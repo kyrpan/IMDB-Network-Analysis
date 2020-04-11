@@ -1,4 +1,4 @@
-# imdb_network_analysis
+# IMDB-Network-Analysis
 Network analysis on kaggle IMDB dataset using Gephi, Java and Python. 
 
 -all_movies: gephi project, nodes, edges for all the movies
